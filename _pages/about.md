@@ -25,7 +25,10 @@ I am working as a research scientist and Ph.D. student at the Chair of Computati
 # Current Work
 
 ## FeatureCloud
+[The FeatureCloud Platform](https://featurecloud.ai/)
+[The FeatureCloud EU Project](https://featurecloud.eu/)
 
-## Partea - Privacy-aware Time to Event Analysis
+## Partea
+[Privacy-aware time-to-event analysis](https://exbio.wzw.tum.de/partea/)
 
 
